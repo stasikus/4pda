@@ -1,0 +1,100 @@
+D:\C#\od_redua\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\vkrugudruzei.exe
+D:\C#\od_redua\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\vkrugudruzei.pdb
+D:\C#\od_redua\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\xNet.dll
+D:\C#\od_redua\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\xNet.pdb
+D:\C#\od_redua\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\xNet.xml
+D:\C#\od_redua\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.csprojResolveAssemblyReference.cache
+D:\C#\od_redua\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.Form1.resources
+D:\C#\od_redua\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.Properties.Resources.resources
+D:\C#\od_redua\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.csproj.GenerateResource.Cache
+D:\C#\od_redua\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.exe
+D:\C#\od_redua\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.pdb
+d:\C#\111\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.exe
+d:\C#\111\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.pdb
+d:\C#\111\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.csprojResolveAssemblyReference.cache
+d:\C#\111\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.Form1.resources
+d:\C#\111\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.Properties.Resources.resources
+d:\C#\111\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.csproj.GenerateResource.Cache
+d:\C#\111\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\vkrugudruzei.exe
+d:\C#\111\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\vkrugudruzei.pdb
+d:\C#\111\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\xNet.dll
+d:\C#\111\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\xNet.pdb
+d:\C#\111\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\xNet.xml
+d:\C#\111\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\vkrugudruzei.exe.config
+F:\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\vkrugudruzei.exe.config
+F:\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.exe
+F:\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.pdb
+F:\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\vkrugudruzei.exe
+F:\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\vkrugudruzei.pdb
+F:\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\xNet.pdb
+F:\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\xNet.xml
+F:\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.csprojResolveAssemblyReference.cache
+F:\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.Form1.resources
+F:\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.Properties.Resources.resources
+F:\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.csproj.GenerateResource.Cache
+d:\C#\111\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\vkrugudruzei.exe.config
+d:\C#\111\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.exe
+d:\C#\111\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.pdb
+d:\C#\111\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\vkrugudruzei.exe
+d:\C#\111\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\vkrugudruzei.pdb
+d:\C#\111\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\xNet.pdb
+d:\C#\111\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\bin\Debug\xNet.xml
+d:\C#\111\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.csprojResolveAssemblyReference.cache
+d:\C#\111\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.Form1.resources
+d:\C#\111\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.Properties.Resources.resources
+d:\C#\111\SP_OD\vkrugudruzei\vkrugudruzei\vkrugudruzei\obj\Debug\vkrugudruzei.csproj.GenerateResource.Cache
+f:\straniks_od\vkrugudruzei\bin\Debug\vkrugudruzei.exe.config
+f:\straniks_od\vkrugudruzei\obj\Debug\vkrugudruzei.exe
+f:\straniks_od\vkrugudruzei\obj\Debug\vkrugudruzei.pdb
+f:\straniks_od\vkrugudruzei\obj\Debug\vkrugudruzei.csprojResolveAssemblyReference.cache
+f:\straniks_od\vkrugudruzei\obj\Debug\vkrugudruzei.Form1.resources
+f:\straniks_od\vkrugudruzei\obj\Debug\vkrugudruzei.Properties.Resources.resources
+f:\straniks_od\vkrugudruzei\obj\Debug\vkrugudruzei.csproj.GenerateResource.Cache
+f:\straniks_od\vkrugudruzei\bin\Debug\vkrugudruzei.exe
+f:\straniks_od\vkrugudruzei\bin\Debug\vkrugudruzei.pdb
+f:\straniks_od\vkrugudruzei\bin\Debug\xNet.pdb
+f:\straniks_od\vkrugudruzei\bin\Debug\xNet.xml
+F:\Standpointpress_tks\vkrugudruzei\bin\Debug\vkrugudruzei.exe.config
+F:\Standpointpress_tks\vkrugudruzei\obj\Debug\vkrugudruzei.exe
+F:\Standpointpress_tks\vkrugudruzei\obj\Debug\vkrugudruzei.pdb
+F:\Standpointpress_tks\vkrugudruzei\bin\Debug\vkrugudruzei.exe
+F:\Standpointpress_tks\vkrugudruzei\bin\Debug\vkrugudruzei.pdb
+F:\Standpointpress_tks\vkrugudruzei\bin\Debug\xNet.pdb
+F:\Standpointpress_tks\vkrugudruzei\bin\Debug\xNet.xml
+F:\Standpointpress_tks\vkrugudruzei\obj\Debug\vkrugudruzei.csprojResolveAssemblyReference.cache
+F:\Standpointpress_tks\vkrugudruzei\obj\Debug\vkrugudruzei.Form1.resources
+F:\Standpointpress_tks\vkrugudruzei\obj\Debug\vkrugudruzei.Properties.Resources.resources
+F:\Standpointpress_tks\vkrugudruzei\obj\Debug\vkrugudruzei.csproj.GenerateResource.Cache
+F:\ \Standpointpress_tks\zakup\vkrugudruzei\bin\Debug\vkrugudruzei.exe.config
+F:\ \Standpointpress_tks\zakup\vkrugudruzei\obj\Debug\vkrugudruzei.exe
+F:\ \Standpointpress_tks\zakup\vkrugudruzei\obj\Debug\vkrugudruzei.pdb
+F:\ \Standpointpress_tks\zakup\vkrugudruzei\bin\Debug\vkrugudruzei.exe
+F:\ \Standpointpress_tks\zakup\vkrugudruzei\bin\Debug\vkrugudruzei.pdb
+F:\ \Standpointpress_tks\zakup\vkrugudruzei\bin\Debug\xNet.pdb
+F:\ \Standpointpress_tks\zakup\vkrugudruzei\bin\Debug\xNet.xml
+F:\ \Standpointpress_tks\zakup\vkrugudruzei\obj\Debug\vkrugudruzei.csprojResolveAssemblyReference.cache
+F:\ \Standpointpress_tks\zakup\vkrugudruzei\obj\Debug\vkrugudruzei.Form1.resources
+F:\ \Standpointpress_tks\zakup\vkrugudruzei\obj\Debug\vkrugudruzei.Properties.Resources.resources
+F:\ \Standpointpress_tks\zakup\vkrugudruzei\obj\Debug\vkrugudruzei.csproj.GenerateResource.Cache
+F:\ \4pda\vkrugudruzei\bin\Debug\vkrugudruzei.exe.config
+F:\ \4pda\vkrugudruzei\obj\Debug\vkrugudruzei.exe
+F:\ \4pda\vkrugudruzei\obj\Debug\vkrugudruzei.pdb
+F:\ \4pda\vkrugudruzei\bin\Debug\vkrugudruzei.exe
+F:\ \4pda\vkrugudruzei\bin\Debug\vkrugudruzei.pdb
+F:\ \4pda\vkrugudruzei\bin\Debug\xNet.pdb
+F:\ \4pda\vkrugudruzei\bin\Debug\xNet.xml
+F:\ \4pda\vkrugudruzei\obj\Debug\vkrugudruzei.csprojResolveAssemblyReference.cache
+F:\ \4pda\vkrugudruzei\obj\Debug\vkrugudruzei.Form1.resources
+F:\ \4pda\vkrugudruzei\obj\Debug\vkrugudruzei.Properties.Resources.resources
+F:\ \4pda\vkrugudruzei\obj\Debug\vkrugudruzei.csproj.GenerateResource.Cache
+D:\C#\4pda\4pda\vkrugudruzei\bin\Debug\vkrugudruzei.exe.config
+D:\C#\4pda\4pda\vkrugudruzei\obj\Debug\vkrugudruzei.exe
+D:\C#\4pda\4pda\vkrugudruzei\obj\Debug\vkrugudruzei.pdb
+D:\C#\4pda\4pda\vkrugudruzei\bin\Debug\vkrugudruzei.exe
+D:\C#\4pda\4pda\vkrugudruzei\bin\Debug\vkrugudruzei.pdb
+D:\C#\4pda\4pda\vkrugudruzei\bin\Debug\xNet.pdb
+D:\C#\4pda\4pda\vkrugudruzei\bin\Debug\xNet.xml
+D:\C#\4pda\4pda\vkrugudruzei\obj\Debug\vkrugudruzei.csprojResolveAssemblyReference.cache
+D:\C#\4pda\4pda\vkrugudruzei\obj\Debug\vkrugudruzei.Form1.resources
+D:\C#\4pda\4pda\vkrugudruzei\obj\Debug\vkrugudruzei.Properties.Resources.resources
+D:\C#\4pda\4pda\vkrugudruzei\obj\Debug\vkrugudruzei.csproj.GenerateResource.Cache
